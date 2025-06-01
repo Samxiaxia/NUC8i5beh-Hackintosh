@@ -44,19 +44,16 @@
 1. 基于 OpenCore 1.0.4 正式版进行制作
 2. 支持 macOS 14.0 到 macOS 15.5 正式版
 3. Kexts 驱动信息
-  - AMFIPass
-  - AppleALC
-  - BlueToolFixup
-  - CPUFriend
-  - FeatureUnlock
-  - IntelMausi
-  - IO80211FamilyLegacy
-  - IOSkywalkFamily
-  - Lilu
-  - NVMeFix
-  - RestrictEvents
-  - SMCProcessor
-  - SMCSuperIO
-  - USBPorts
-  - VirtualSMC
-  - WhateverGreen
+  - AMFIPass（v1.4.1）
+  - AppleALC（v1.9.4）
+  - BlueToolFixup（v2.6.8）
+  - CPUFriend（v1.2.9）
+  - FeatureUnlock（v1.1.7）
+  - IntelMausi（v1.0.8）
+  - IO80211FamilyLegacy（v1200.12.2b1）
+  - IOSkywalkFamily（v1.2.0）
+  - Lilu（v1.7.0）
+  - NVMeFix（v1.1.2）
+  - RestrictEvents（v1.1.5）
+  - VirtualSMC（v1.3.6）
+  - WhateverGreen（v1.6.9）
