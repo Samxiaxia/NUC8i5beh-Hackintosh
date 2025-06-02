@@ -17,6 +17,26 @@
 - **Ethernet**: Intel I219-V
 - **Audio**: Realtek ALC235
 
+## 工作情况（Work Situation）
+- DP/HDMI 4K 60hz 视频输出+音频输出（可双屏 4K 60hHz）
+- 全部 USB3 / USB2 接口驱动
+- 雷电3（支持 DP 1.2、USB 3.1 Gen2、雷雳3 40GB/s、仅雷电协议不支持热插拔、PD 供电仅支持 15W 输出不支持输入、支持 5K 雷雳显示器）
+- Nvme SSD（PCIe x 4）
+- 2.5 寸 SATA
+- 3.5mm 耳机孔（开关机有爆音问题）
+- 有线网卡
+- 无线 Wi-Fi（2.4GHz 会和蓝牙干扰，建议只用5GHz）
+- 蓝牙（键鼠、妙控板、耳机、音箱）
+- App Store / iCloud
+- 自动休眠
+- 深睡键鼠唤醒（有线/无线/蓝牙键鼠均可）
+- 蓝牙键鼠操作 BIOS，以及 OpenCore 下的功能选择
+- Airdrop 隔空投送
+- Continuity 接力
+- Apple Watch 解锁
+- AirPlay 隔空播放
+- Sidecar 随航
+
 ## BIOS 设置（BIOS Settings）
 豆子峡谷（NUC8ixBEx）开机时，连续点按 F2 进入 BIOS，为了避免之前有其他不合适的改动，建议先按 F9 重置 BIOS 默认设置，BIOS 内的选项启用为勾选，禁用为不勾选。
 
