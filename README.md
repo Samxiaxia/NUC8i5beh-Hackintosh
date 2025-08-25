@@ -1,3 +1,6 @@
+# 本EFI复刻自ZGCONG大佬的发行版，仅个人自学使用
+
+
 # NUC8ixBEx-Hackintosh
 本 EFI 适用于 NUC8i3BEK、NUC8i3BEH、NUC8i5BEK、NUC8i5BEH、NUC8i7BEK、NUC8i7BEH 的白苹果网卡设备，网卡首推 BCM94360CS2 和 BCM943602CS，支持以下两种白果网卡情况：
 1. 通过硬改主板读卡器 IC 芯片加装白苹果无线网卡。
